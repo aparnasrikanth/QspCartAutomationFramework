@@ -12,6 +12,7 @@ public class AddToCartTest {
 	public void removeFromCartTest() {
 		System.out.println("product removed");
 		System.out.println("this is engineer 1");
+		System.out.println("this is again engineer 1");
 	}
 
 }
