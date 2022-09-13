@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-14T00:22:10 IST" name="Default suite" finished-at="2022-09-14T00:22:10 IST" duration-ms="156">
+  <suite started-at="2022-09-14T00:27:34 IST" name="Default suite" finished-at="2022-09-14T00:27:34 IST" duration-ms="168">
     <groups>
     </groups>
-    <test started-at="2022-09-14T00:22:10 IST" name="Default test" finished-at="2022-09-14T00:22:10 IST" duration-ms="156">
+    <test started-at="2022-09-14T00:27:34 IST" name="Default test" finished-at="2022-09-14T00:27:34 IST" duration-ms="168">
       <class name="practice.AddToCartTest">
-        <test-method signature="addToCartTest()[pri:0, instance:practice.AddToCartTest@794cb805]" started-at="2022-09-14T00:22:10 IST" name="addToCartTest" finished-at="2022-09-14T00:22:10 IST" duration-ms="26" status="PASS">
+        <test-method signature="addToCartTest()[pri:0, instance:practice.AddToCartTest@794cb805]" started-at="2022-09-14T00:27:34 IST" name="addToCartTest" finished-at="2022-09-14T00:27:34 IST" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCartTest -->
-        <test-method signature="removeFromCartTest()[pri:0, instance:practice.AddToCartTest@794cb805]" started-at="2022-09-14T00:22:10 IST" name="removeFromCartTest" finished-at="2022-09-14T00:22:10 IST" duration-ms="15" status="PASS">
+        <test-method signature="removeFromCartTest()[pri:0, instance:practice.AddToCartTest@794cb805]" started-at="2022-09-14T00:27:34 IST" name="removeFromCartTest" finished-at="2022-09-14T00:27:34 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removeFromCartTest -->
